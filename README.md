@@ -31,4 +31,12 @@ Began the querying process to analyze the following metrics:
 
 ![CC1E007A-2975-4D5B-B4D7-904C7E3074F4](https://github.com/user-attachments/assets/7fea5da6-d02c-46e2-a3ce-7007ef0a77f4)
 
+## Project Insight
+•	North America has experienced the highest number of COVID-19 deaths, with over 1.19 million people lost, followed closely by South America. In contrast, Oceania has seen the lowest death toll, with just over 25,000 deaths.
+•	The percentage of the population infected varies across countries, with the United States at 30.58%, the United Kingdom at 36.97%, China at 6.9%, and India at 3.18%.
+•	Based on current trends in human activity and lifestyle, the forecast indicates that infections will continue to rise globally.
+•	On average, around 1.1% of the world’s population has been infected with COVID-19.
+
+
+
 
