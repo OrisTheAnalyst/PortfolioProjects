@@ -26,5 +26,5 @@ Began the querying process to analyze the following metrics:
 
 ## Dashboard
 
-
+https://github.com/OrisTheAnalyst/COVID-19-Death-and-Infection-Analysis-Utilising-SQL-and-Tableau/blob/f2781dc335a04d90fe2a24168554038083334910/Dashboard%201.png
 
