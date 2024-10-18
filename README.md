@@ -6,4 +6,25 @@ I conducted an analysis of global COVID-19 infection and death rates to raise aw
 ## Data Used
 https://ourworldindata.org/covid-deaths
 
+## Questions KPIs
+Analyze the global COVID-19 case and mortality rates as of October 2024.
+Calculate the infection fatality rate (probability of death upon infection).
+Identify continents with the highest mortality rates.
+Determine the percentage of the population infected per country.
+Compute the global average infection rate across populations.
+
+## Process
+Validated the dataset to identify and address any missing values or anomalies, ensuring data accuracy.
+Ensured data integrity by verifying consistency in data types, formats, and values.
+Began the querying process to analyze the following metrics:
+•	Total COVID-19 cases relative to the population.
+•	Global case count, death toll, and average mortality rate.
+•	Percentage of the global population infected with COVID-19.
+•	Countries with the highest infection rates relative to population.
+•	Countries with the highest death counts relative to population.
+
+
+## Dashboard
+
+
 
