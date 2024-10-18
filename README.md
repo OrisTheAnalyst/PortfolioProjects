@@ -13,6 +13,9 @@ Identify continents with the highest mortality rates.
 Determine the percentage of the population infected per country.
 Compute the global average infection rate across populations.
 
+- <a href="https://github.com/OrisTheAnalyst/COVID-19-Death-and-Infection-Analysis-Utilising-SQL-and-Tableau/blob/f2781dc335a04d90fe2a24168554038083334910/Dashboard%201.png"> Dashboard </a>
+
+
 ## Process
 Validated the dataset to identify and address any missing values or anomalies, ensuring data accuracy.
 Ensured data integrity by verifying consistency in data types, formats, and values.
@@ -26,5 +29,4 @@ Began the querying process to analyze the following metrics:
 
 ## Dashboard
 
-- <a href="https://github.com/OrisTheAnalyst/COVID-19-Death-and-Infection-Analysis-Utilising-SQL-and-Tableau/blob/f2781dc335a04d90fe2a24168554038083334910/Dashboard%201.png"> Dashboard </a>
 
