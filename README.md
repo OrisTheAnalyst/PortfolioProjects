@@ -29,4 +29,6 @@ Began the querying process to analyze the following metrics:
 
 ## Dashboard
 
+![CC1E007A-2975-4D5B-B4D7-904C7E3074F4](https://github.com/user-attachments/assets/7fea5da6-d02c-46e2-a3ce-7007ef0a77f4)
+
 
