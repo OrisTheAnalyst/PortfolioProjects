@@ -3,5 +3,7 @@
 ## Project Objectives
 I conducted an analysis of global COVID-19 infection and death rates to raise awareness about the ongoing impact of the virus in specific regions. This analysis aims to inform and encourage people to continue taking precautions, helping to reduce the spread and protect vulnerable communities.
 
+## Data Used
+-<a href="https://ourworldindata.org/covid-deaths" ourworldindata </a>
 
 
