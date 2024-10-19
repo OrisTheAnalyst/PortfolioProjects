@@ -7,11 +7,11 @@ I conducted an analysis of global COVID-19 infection and death rates to raise aw
 https://ourworldindata.org/covid-deaths
 
 ## Questions KPIs
-Analyze the global COVID-19 case and mortality rates as of October 2024.
-Calculate the infection fatality rate (probability of death upon infection).
-Identify continents with the highest mortality rates.
-Determine the percentage of the population infected per country.
-Compute the global average infection rate across populations.
+* Analyze the global COVID-19 case and mortality rates as of October 2024.
+* Calculate the infection fatality rate (probability of death upon infection).
+* Identify continents with the highest mortality rates.
+* Determine the percentage of the population infected per country.
+* Compute the global average infection rate across populations.
 
 - <a href="https://github.com/OrisTheAnalyst/COVID-19-Death-and-Infection-Analysis-Utilising-SQL-and-Tableau/blob/19c40b656e4df00b9e38642778050eb9f0b454fd/Dashboard%201%20(1).png"> Dashboard </a>
 
@@ -20,11 +20,11 @@ Compute the global average infection rate across populations.
 Validated the dataset to identify and address any missing values or anomalies, ensuring data accuracy.
 Ensured data integrity by verifying consistency in data types, formats, and values.
 Began the querying process to analyze the following metrics:
-•	Total COVID-19 cases relative to the population.
-•	Global case count, death toll, and average mortality rate.
-•	Percentage of the global population infected with COVID-19.
-•	Countries with the highest infection rates relative to population.
-•	Countries with the highest death counts relative to population.
+*	Total COVID-19 cases relative to the population.
+*	Global case count, death toll, and average mortality rate.
+*	Percentage of the global population infected with COVID-19.
+*	Countries with the highest infection rates relative to population.
+*	Countries with the highest death counts relative to population.
 
 
 ## Dashboard
@@ -33,10 +33,10 @@ Began the querying process to analyze the following metrics:
 
 
 ## Project Insight
-•	North America has experienced the highest number of COVID-19 deaths, with over 1.19 million people lost, followed closely by South America. In contrast, Oceania has seen the lowest death toll, with just over 25,000 deaths.
-•	The percentage of the population infected varies across countries, with the United States at 30.58%, the United Kingdom at 36.97%, China at 6.9%, and India at 3.18%.
-•	Based on current trends in human activity and lifestyle, the forecast indicates that infections will continue to rise globally.
-•	On average, around 1.1% of the world’s population has been infected with COVID-19.
+*	North America has experienced the highest number of COVID-19 deaths, with over 1.19 million people lost, followed closely by South America. In contrast, Oceania has seen the lowest death toll, with just over 25,000 deaths.
+*	The percentage of the population infected varies across countries, with the United States at 30.58%, the United Kingdom at 36.97%, China at 6.9%, and India at 3.18%.
+*	Based on current trends in human activity and lifestyle, the forecast indicates that infections will continue to rise globally.
+*	On average, around 1.1% of the world’s population has been infected with COVID-19.
 
 
 ## Conclusion and Recommendation:
