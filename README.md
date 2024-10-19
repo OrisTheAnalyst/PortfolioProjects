@@ -29,7 +29,8 @@ Began the querying process to analyze the following metrics:
 
 ## Dashboard
 
-![CC1E007A-2975-4D5B-B4D7-904C7E3074F4](https://github.com/user-attachments/assets/7fea5da6-d02c-46e2-a3ce-7007ef0a77f4)
+![4F6CA86A-9B7E-4A9E-B855-96F3092E4288](https://github.com/user-attachments/assets/4337121b-e2ac-495a-80f4-2638bfb70daf)
+
 
 ## Project Insight
 •	North America has experienced the highest number of COVID-19 deaths, with over 1.19 million people lost, followed closely by South America. In contrast, Oceania has seen the lowest death toll, with just over 25,000 deaths.
